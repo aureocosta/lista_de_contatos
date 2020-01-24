@@ -1,0 +1,19 @@
+pt-BR:
+  hello: 'Olá nundo'
+
+  activerecord:
+    attributes:
+      user:
+        name: 'Nome'
+        email: 'Email'
+        password: 'Senha'
+        password_confirmation: 'Confirmação da Senha'
+
+  errors:
+    messages:
+      blank: 'não pode ficar em branco'
+      invalid: 'inválido'
+      taken: 'Já cadastrado'
+      confirmation: 'Não é igual.tente de novo!'
+      too_long: 'Muito grande.Maximo permitido é de %{count} caracteres'
+      too_short: 'Muito curta.Mínimo é de %{count} caracteres'      
